@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/416492263192002562/1346263271707119616/Portrait_rounded.png?ex=67c78ce0&is=67c63b60&hm=50b4f46c22469bf55ff5816e0d1b82eaa474a1cfd4a344b1423a1b99d4180846&"  />
-</div>
-
-###
-
 <h2 align="center">■ Hello, Welcome! ■</h2>
 
 ###
@@ -38,14 +32,10 @@
 
 ###
 
-<h3 align="center">Github History:</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teamixyuryou2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Teamixyuryou2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Teamixyuryou2&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=10&order=3" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Teamixyuryou2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Teamixyuryou2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Teamixyuryou2&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
