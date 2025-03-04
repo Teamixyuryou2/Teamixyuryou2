@@ -40,7 +40,7 @@
   <h3> 🌐 Connect with Me: </h3>
   
   - Portfolio: [Website](https://yuyou-liu-workshop.vercel.app/)
-  - LinkedIn: [Yuyou Liu]([https://www.linkedin.com/in/yuyou-liu/](https://www.linkedin.com/in/yuyou-liu-personal-page/))
+  - LinkedIn: [Yuyou Liu](https://www.linkedin.com/in/yuyou-liu-personal-page/)
   
   Feel free to explore my repositories and reach out if you'd like to collaborate or discuss technology. Let's build something amazing together!
   
