@@ -2,18 +2,14 @@
 
 ###
 
-<h3 align="center">Tech Stacks I've Worked With:</h3>
-
-###
 
 <br clear="both">
 
 <div>
-    <h3> Hello, Welcome! 👋 </h3>
   
   I'm **Yuyou Liu**, a passionate developer driven by curiosity and a love for innovation. My journey in technology is fueled by the belief that boredom often leads to great ideas.
   
-  ### 🛠️ Tech Stacks I've Worked With:
+ <h3 align="center">Tech Stacks I've Worked With:</h3>
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
