@@ -37,11 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
   
-  ### 🌱 Current Projects:
+  <h3> 🌱 Current Projects: </h3>
   
   - **INTER-KNOT**: A social media platform designed to connect like-minded individuals and foster meaningful interactions.
   
-  ### 🌐 Connect with Me:
+  <h3> 🌐 Connect with Me: </h3>
   
   - Portfolio: [yuyou-liu-workshop.vercel.app](https://yuyou-liu-workshop.vercel.app/)
   - LinkedIn: [Yuyou Liu](https://www.linkedin.com/in/yuyou-liu/)
