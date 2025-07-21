@@ -44,7 +44,7 @@
   
   Feel free to explore my repositories and reach out if you'd like to collaborate or discuss technology. Let's build something amazing together!
   
-  > "Boredom leads to great ideas.
+  > "Boredom leads to great ideas."
 </div>
 
 ###
